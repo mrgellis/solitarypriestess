@@ -42,10 +42,12 @@ h1 {
   font-size: 1.5rem;
   line-height: 2rem;
   margin-bottom: 24px;
+  font-family: "Gill Sans", sans-serif;
 }
 
 p {
   margin-bottom: 24px;
   font-size: 1rem;
   line-height: 1.75rem;
+  font-family: "Gill Sans", sans-serif;
 }
